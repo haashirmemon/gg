@@ -1,0 +1,5 @@
+var inputdate = document.getElementById("date")
+var inputamount = document.getElementById("amount")
+var inputdate = document.getElementById("date")
+var inputdate = document.getElementById("date")
+var inputdate = document.getElementById("date")
